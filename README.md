@@ -1,19 +1,19 @@
 ## Olá, me chamo [Otávio!](https://github.com/otaviosbampato/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/otaviosbampato)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sbampato/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/otaviosbampato/)
 
-### Prazer te ver por aqui! 👋&nbsp;
+### Prazer te ver por aqui! 👋
 
-Sou desenvolvedor mobile e procuro fazer a diferença com react native.
+Sou desenvolvedor mobile e trabalho em uma Empresa Junior com React Native.
 
-Tenho uma paixão forte por aprender coisas novas e tomar liderança em situações nas quais isso é preciso. 
+- Tenho uma paixão forte por aprender coisas novas e tomar posições de liderança. 
 
-Exploro novas tecnologias no tempos livres, e jogo jogos no resto.
+- Exploro novas tecnologias no tempos livres, e jogo jogos no resto.
 
-Sinta-se livre pra entrar em contato comigo em @otaviosbampato!
+- Sinta-se livre pra entrar em contato comigo em @otaviosbampato!
 
-Gosta do meu trabalho? Ajude estrelando os repositórios!
+- Gosta do meu trabalho? Ajude estrelando os repositórios!
 
 ### Do que mais gosto:
 
