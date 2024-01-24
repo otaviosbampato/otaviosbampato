@@ -1,10 +1,9 @@
 ## Olá, me chamo [Otávio!](https://github.com/otaviosbampato/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/otaviosbampato)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/otaviosbampato)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/otaviosbampato/)
 
-### Prazer te ver por aqyu! &nbsp;
+### Prazer te ver por aqui! 👋&nbsp;
 
 Sou desenvolvedor mobile e procuro fazer a diferença com react native.
 
