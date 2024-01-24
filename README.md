@@ -19,7 +19,7 @@ Gosta do meu trabalho? Ajude estrelando os repositórios!
 
 - 💻 &nbsp; Explorar novas tecnologias e aprender o novo.
 - 📰 &nbsp; Ler livros e assistir bons filmes.
-- 🎾 &nbsp; Jogar um pouco de tênis nas horas vagas.
+- 🎾 &nbsp; Jogar tênis nas horas vagas.
 
 ### Linguagens e ferramentas:
 
