@@ -4,7 +4,7 @@
 
 ### Prazer te ver por aqui! 👋
 
-Sou desenvolvedor mobile e trabalho em uma Empresa Junior com React Native.
+Sou desenvolvedor mobile e trabalho em uma EJ com React Native.
 
 Tenho uma paixão forte por aprender coisas novas e tomar posições de liderança. 
 
@@ -13,12 +13,6 @@ Exploro novas tecnologias no tempos livres, e jogo jogos no resto.
 Sinta-se livre pra entrar em contato comigo em @otaviosbampato!
 
 Gosta do meu trabalho? Ajude estrelando os repositórios!
-
-### Do que mais gosto:
-
-- 💻 &nbsp; Explorar novas tecnologias e aprender o novo.
-- 📰 &nbsp; Ler livros e assistir bons filmes.
-- 🎾 &nbsp; Jogar tênis nas horas vagas.
 
 ### Linguagens e ferramentas:
 
