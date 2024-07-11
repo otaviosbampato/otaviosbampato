@@ -1,12 +1,12 @@
-## Prazer, me chamo [Otávio!](https://github.com/otaviosbampato/) 🤝
+## Prazer, me chamo [Otávio!](https://github.com/otaviosbampato/) 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sbampato/)
 
-Estudo CC, desenvolvo aplicativos com React-Native e trabalho na EJ Comp Júnior, na Universidade Federal de Lavras.
+Estudo Ciência da Computação, desenvolvo aplicativos com React-Native e trabalho na Empresa Júnior Comp Júnior, na Universidade Federal de Lavras.
 
 Aprecio aprender coisas novas e tomar posições de liderança. 
 
-Exploro novas tecnologias, e prezo por ler nas horas vagas.
+Exploro novas tecnologias, e tento ler ou escrever nas horas vagas.
 
 Entre em contato comigo em @otaviosbampato!
 
