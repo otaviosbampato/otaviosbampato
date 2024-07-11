@@ -6,9 +6,9 @@ Estudo CC, desenvolvo aplicativos com React-Native e trabalho na EJ Comp Júnior
 
 Aprecio aprender coisas novas e tomar posições de liderança. 
 
-Exploro novas tecnologias, e gosto muito de ler bons livros.
+Exploro novas tecnologias, e prezo por ler nas horas vagas.
 
-Entre em contato comigo - @otaviosbampato
+Entre em contato comigo em @otaviosbampato!
 
 Gostou de algum projeto? Ajude estrelando os repositórios!
 
