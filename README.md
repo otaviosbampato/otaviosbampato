@@ -10,4 +10,4 @@ Forte interesse em aprender o novo,
 
 em constante busca pela evolução.
 
-De Minas Gerais, Brasil. 
+De Minas Gerais, Brasil. ✍️
