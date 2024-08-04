@@ -10,4 +10,4 @@ Forte interesse em aprender o novo,
 
 em constante busca pela evolução.
 
-De Minas Gerais, Brasil. <img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" width="16" height="13" style="margin-left: 10px;">
+De Minas Gerais, Brasil. <img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" width="17" height="12" style="margin-left: 10px;">
