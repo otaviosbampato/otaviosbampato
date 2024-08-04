@@ -1,4 +1,4 @@
-## Prazer, me chamo [Otávio](https://github.com/otaviosbampato/) 👨‍💻
+## Prazer, me chamo [Otávio](https://github.com/otaviosbampato/) <img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" width="28" height="20" style="margin-left:10px;"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sbampato/)
 
@@ -10,4 +10,4 @@ Forte interesse em aprender o novo,
 
 em constante busca pela evolução.
 
-De Minas Gerais, Brasil. <img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" width="14" height="10" style="margin-left:10px;"/>
+De Minas Gerais, Brasil. 
