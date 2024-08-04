@@ -4,10 +4,10 @@
 
 Estudante da Universidade Federal de Lavras - MG
 
-Desenvolvedor mobile pela Comp Júnior,
+Desenvolvedor mobile pela Comp Júnior.
 
 Forte interesse em aprender o novo,
 
-Em constante busca pela evolução.
+em constante busca pela evolução.
 
 De Minas Gerais, Brasil. ⚡
