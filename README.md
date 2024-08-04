@@ -1,4 +1,4 @@
-## Prazer, me chamo [Otávio](https://github.com/otaviosbampato/) <img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" width="100" height="60">
+## Prazer, me chamo [Otávio](https://github.com/otaviosbampato/) <img src="https://flagpedia.net/data/flags/h80/br.png" alt="Brazil Flag" width="50" height="30">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sbampato/)
 
