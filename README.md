@@ -6,19 +6,8 @@ Estudante da Universidade Federal de Lavras - MG
 
 Desenvolvedor mobile pela Comp Júnior.
 
-Forte interesse em aprender o novo,
+Para sempre interessado em aprender o novo,
 
 em constante busca pela evolução.
 
 De Minas Gerais, Brasil
-
-                                    
-▄▄█████  ▐█████▄     ▐███         ██    ▄██
-▐██████▀▀  ▐██▀███▌    █████       ▐███  █████
-███▀       ▐██ ███▌    █████▌      ███████████
-████▄▄     ▐██▐█████  ▐██▀███     ▐████████████
-███████▄  ▐███▀▀███▌ ███▄████    ███ ████  ███▌
-    ▀▀████  ██▌  ███▌ ████████▌  ███▌  █▀   ████
-███     ███  ███▄████ ▐██▌   ███▌ ███        ▐███
-███████████  ███████  ▐██     ██▌▐██▌         ███▌
-▀▀▀▀▀▀▀▀▀   ▀▀▀▀     ▀▀▀     ▀▀▀▐██
