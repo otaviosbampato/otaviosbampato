@@ -6,7 +6,7 @@ Estudante da Universidade Federal de Lavras - MG
 
 Desenvolvedor mobile pela Comp Júnior.
 
-Para sempre interessado em aprender o novo,
+Sempre à procura de aprender o novo,
 
 em constante busca pela evolução.
 
