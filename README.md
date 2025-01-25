@@ -4,7 +4,7 @@
 
 Ciência da Computação - Universidade Federal de Lavras - MG
 
-Estagiário em desenvolvimento de Software pela SYDLE
+Estagiário em Desenvolvimento de Software pela SYDLE
 
 Desenvolvedor mobile pela Comp Júnior
 
