@@ -2,9 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sbampato/)
 
-Estudante da Universidade Federal de Lavras - MG
+Ciência da Computação - Universidade Federal de Lavras - MG
 
-Desenvolvedor mobile pela Comp Júnior.
+Estagiário em desenvolvimento de Software pela SYDLE
+
+Desenvolvedor mobile pela Comp Júnior
 
 Sempre à procura de aprender o novo,
 
